@@ -43,7 +43,7 @@ const Team = () => {
                     LinkedIn
                   </a>
                   <a 
-                    href="mailto:zeynep@35elements.com"
+                    href="mailto:artemistrading1792@gmail.com"
                     className="px-4 py-2 bg-gray-600 text-white rounded-full hover:bg-gray-700 transition-colors duration-300"
                   >
                     Email
@@ -77,7 +77,7 @@ const Team = () => {
                     LinkedIn
                   </a>
                   <a 
-                    href="mailto:can@35elements.com"
+                    href="mailto:artemistrading1792@gmail.com"
                     className="px-4 py-2 bg-gray-600 text-white rounded-full hover:bg-gray-700 transition-colors duration-300"
                   >
                     Email
